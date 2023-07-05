@@ -1,0 +1,1 @@
+You can find our trainset (HyBird dataset and SIGHAN trainset) on https://drive.google.com/file/d/1Jf-lfXml-XGRJiw9lw3ot87VOXMGrUAD/view?usp=drive_link
