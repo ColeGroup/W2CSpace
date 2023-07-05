@@ -380,7 +380,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     torch.manual_seed(1)
     config = config()
-    train = pd.read_csv(args.dataset + "/train_zhenju2.csv")
+    train = pd.read_csv(args.dataset + "/train_dataset.csv")
 
     train = CorrectDataset(train, max_length=config.max_length)
     train = DataLoader(train, batch_size=32, num_workers=0)
