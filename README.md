@@ -2,9 +2,17 @@
 
 Official code for "Constructing Word-Context-Coupled Space Aligned with Associative Knowledge Relations for Interpretable Language Modeling", Findings in ACL2023.
 
-## [Our paper](https://aclanthology.org/2023.findings-acl.532/). [Fanyu Wang](https://fanyuuwang.github.io/)
+## You can find our paper on [Link](https://aclanthology.org/2023.findings-acl.532/).
 
 Cite as: Fanyu Wang and Zhenping Xie. 2023. Constructing Word-Context-Coupled Space Aligned with Associative Knowledge Relations for Interpretable Language Modeling. In Findings of the Association for Computational Linguistics: ACL 2023, pages 8414–8427, Toronto, Canada. Association for Computational Linguistics.
+
+## Contact Information
+
+### Fanyu Wang: [Personal Page](https://fanyuuwang.github.io/)
+
+### Zhenping Xie: [Personal Page](http://ai.jiangnan.edu.cn/info/1013/1511.htm)
+
+### ColeGroup (Chinese Only): [Home Page](http://www.15zhi.net/)
 
 ## Lauchment
 
